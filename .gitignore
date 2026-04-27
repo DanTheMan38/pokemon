@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+save_data.json
+tmp_verify/

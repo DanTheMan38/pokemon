@@ -1,0 +1,19 @@
+{
+  "frame_width": 24,
+  "frame_height": 32,
+  "sheet_columns": 3,
+  "sheet_rows": 4,
+  "row_directions": [
+    "down",
+    "up",
+    "left",
+    "right"
+  ],
+  "walk_cycle": [
+    0,
+    1,
+    0,
+    2
+  ],
+  "render_scale": 2
+}

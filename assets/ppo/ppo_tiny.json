@@ -1,0 +1,20 @@
+{
+  "algorithm": "tabular_ppo",
+  "label": "Tiny PPO",
+  "episodes": 0,
+  "updates": 0,
+  "seed": 20260426,
+  "actions": [
+    "up",
+    "down",
+    "left",
+    "right",
+    "interact",
+    "fight",
+    "orb",
+    "berry",
+    "run",
+    "wait"
+  ],
+  "policy": {}
+}
